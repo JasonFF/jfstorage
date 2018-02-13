@@ -1,0 +1,13 @@
+{
+  "name": "jfstorage",
+  "version": "1.0.0",
+  "description": "a web storage",
+  "main": "index.js",
+  "repository": "https://github.com/JasonFF/jfstorage",
+  "author": "JasonFF <dfQ_Qjb@qq.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "lodash": "^4.17.5"
+  }
+}
